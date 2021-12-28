@@ -29,14 +29,18 @@ neccessarily, a divorse case with adultery and children involved.
 The user will enter the necessary data to the Just-AI system, which will in turn search into a data base and, either find a (one
 or more) past case(s) with the exact same parameters, or present the user with the k most similar cases. If the user is a lawyer,
 it can present estimated time of resolution, win rate of past cases etc. If the user is a judge, it can present the sentences of
-the previous cases and, if needed, propose a new, supposedly more suitable, sentence. It could also present data regarding the
-effectiveness of previously passed sentences, and, again, accordingly, propose a new, more suitable one.
+the previous cases and propose a new, supposedly more suitable, sentence.
 
 ## Data sources and methods
 
 The data comes from a (national or state-wide) data base of solved cases, broken down to a wide variety of characteristics that
-can be used to categorize the incoming new cases. The k-nearest neighbour will be used so that the user, upon entering the data,
-will be presented with the k most similar cases.
+can be used to categorize the incoming new cases.
+
+The k-nearest neighbour will be used so that the user, upon entering the data, will be presented with the k most similar cases. 
+
+The estimation for the time of resultion and win rate will be predicted using the appropriate data from previous cases and by
+drawing some data regarding the current state of running cases. The software can be trained using linear regression and reinforced
+learning. Finally, the porposal of a new sentence will too be acquired using linear regression.
 
 ## Challenges
 
@@ -48,4 +52,4 @@ is secure and that the different variables and co-efficients that make up the re
 
 ## What's next
 
-Perhaps, in the future, we will have successfully managed to break down any case into variables that can be processed and lead to a result, regardless of the individual case. Also, the system could draw data from penintentiary systems and assess its own previous judgments based on their effectiveness on the convicted person. In any case, we should always tread carefully, not get carried away by the effectiveness of the system and always consult scientists and experts before putting our trust on this kind of technology.
+Perhaps, in the future, we will have successfully managed to break down any case into variables (using the expertise of psychologists) that can be processed and lead to a result, regardless of the individual case. Also, the system could draw data from penintentiary systems and assess its own previous judgments based on their effectiveness on the convicted person. In any case, we should always tread carefully, not get carried away by the effectiveness of the system and always consult scientists and experts before putting our trust on this kind of technology.
