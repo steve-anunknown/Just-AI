@@ -1,14 +1,12 @@
 # Just-AI
-Artificial intelligence techniques implemented for the administration of justice.
+Artificial intelligence techniques implemented for the administration of justice. Building AI course project
 
 ## Summary
 
-The goal is to use artificial intelligence so as to make tedious and time consuming tasks easier and faster for lawyers and judges
-and to assist judges in their desicion making. Ideally, Just-AI will be able to categorise law cases based on their
-characteristics and intrinsic details, allowing lawyers and judges to treat them, when possible, in "bulk", instead of devoting
-extreme amounts of time to discrete cases that share a lot of similarities. In addition, it will be able to assist the judges in
-their desicion making, by providing a general, data oriented, sentence that the judges can "humanise" and adapt to the specific
-case.
+The goal is to use artificial intelligence so as to make tedious and time consuming tasks easier and faster for lawyers and
+judges. Ideally, Just-AI will be able to categorise law cases based on their characteristics and intrinsic details, allowing
+lawyers and judges to treat them, when possible, in "bulk", instead of devoting extreme amounts of time to discrete cases that
+share a lot of similarities.
 
 ## Background
 
