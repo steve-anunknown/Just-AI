@@ -13,7 +13,7 @@ case.
 ## Background
 
 The inspiration for the idea was the fact that, almost everywhere, justice administration is too slow and judges get overwhelmed
-with cases that share many similarities. Hopefully, solves a variety of problems:
+with cases that share many similarities. Hopefully,it solves a variety of problems:
 * It speeds up the administration of justice.
 * It assists judges in being more objective by providing them with a strict data-oriented sentence that they can adapt to individual cases.
 * It reduces litigation costs.
