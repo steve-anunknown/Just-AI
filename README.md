@@ -66,3 +66,7 @@ exceptionally well?). This would require for legal workers to be included in the
 
 In any case, we should always tread carefully, not get carried away by the effectiveness of the system and always consult
 scientists and experts before putting our trust on this kind of technology.
+
+## Acknowledgments
+
+elementsofai.com
