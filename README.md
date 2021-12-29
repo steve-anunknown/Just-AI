@@ -27,9 +27,9 @@ car that got damaged due to the bad quality of the road. On the other hand, a ca
 neccessarily, a divorce case with adultery and children involved.
 
 The user will enter the necessary data to the Just-AI system, which will in turn search into a data base and, either find a (one
-or more) past case(s) with the exact same parameters, or present the user with the k most similar cases. If the user is a lawyer,
-it can present estimated time of resolution, win rate of past cases etc. If the user is a judge, it can present the sentences of
-the previous cases and propose a new, supposedly more suitable, sentence.
+or more) past case(s) with the exact same parameters, or present the user with a number of most similar cases. If the user is a
+lawyer, it can present estimated time of resolution, win rate of past cases etc. If the user is a judge, it can present the
+sentences of the previous cases and propose a new, supposedly more suitable, sentence.
 
 ## Data sources and methods
 
