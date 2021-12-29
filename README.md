@@ -3,7 +3,7 @@ Artificial intelligence techniques implemented for the administration of justice
 
 ## Summary
 
-The goal is to use artificial intelligence so as to make tedious and time consuming tasks easier and faster for lawyers and
+The goal is to use artificial intelligence so as to make tedious and time consuming legal tasks easier and faster for lawyers and
 judges. Ideally, Just-AI will be able to categorise law cases based on their characteristics and intrinsic details, allowing
 lawyers and judges to treat them, when possible, in "bulk", instead of devoting extreme amounts of time to discrete cases that
 share a lot of similarities.
