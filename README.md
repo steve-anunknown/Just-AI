@@ -15,8 +15,8 @@ case.
 The inspiration for the idea was the fact that, almost everywhere, justice administration is too slow and judges get overwhelmed
 with cases that share many similarities. Hopefully, solves a variety of problems:
 * It speeds up the administration of justice.
-* It assists judges with being more objective by providing them with a strict data-oriented sentence that they can adapt to individual cases.
-* It allows lawyers to become more affordable, since they can uptake more work.
+* It assists judges in being more objective by providing them with a strict data-oriented sentence that they can adapt to individual cases.
+* It reduces litigation costs.
 * It encourages citizens to pursue their rights instead of remaining inactive in fear of losing time and money.
 
 ## How is it used?
@@ -24,7 +24,7 @@ with cases that share many similarities. Hopefully, solves a variety of problems
 Just-AI can be used for any law case, but mostly typical cases that consist of "objective" variables and not "human" variables
 that complicate things. Example of a "typical" case would be a citizen claiming damages from a municipality for the tire of their
 car that got damaged due to the bad quality of the road. On the other hand, a case with many "human" variables could be, not
-neccessarily, a divorse case with adultery and children involved.
+neccessarily, a divorce case with adultery and children involved.
 
 The user will enter the necessary data to the Just-AI system, which will in turn search into a data base and, either find a (one
 or more) past case(s) with the exact same parameters, or present the user with the k most similar cases. If the user is a lawyer,
@@ -38,9 +38,9 @@ can be used to categorize the incoming new cases.
 
 The k-nearest neighbour will be used so that the user, upon entering the data, will be presented with the k most similar cases. 
 
-The estimation for the time of resultion and win rate will be predicted using the appropriate data from previous cases and by
-drawing some data regarding the current state of running cases. The software can be trained using linear regression and reinforced
-learning. Finally, the porposal of a new sentence will too be acquired using linear regression.
+The estimated time of resolution and win rate will be predicted using the appropriate data from previous cases and by
+drawing some data regarding the current state of running cases. The software can be trained using linear regression and
+reinforcement learning. Finally, the proposal of a new sentence will too be acquired using linear regression.
 
 ## Challenges
 
