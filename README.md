@@ -47,9 +47,22 @@ reinforcement learning. Finally, the proposal of a new sentence will too be acqu
 It goes without saying that justice is a complicated issue and not something that can just be automated. As a result, law cases
 that contain a lot of human factors and data unable to just be broken down to variables require special attention. In addition,
 the manner in which "weight" is attributed to the different characteristics that are, ultimately, been used has to be constantly
-reviewed in order to ensure that the system is, indeed, fair and up-to-date. Finally, it is of utmost importance that the system
+reviewed in order to ensure that the system is, indeed, fair and up-to-date. Furthermore, issues of privacy are being raised, not
+only regarding the participants but potentially the legal stuff as well. Finally, it is of utmost importance that the system
 is secure and that the different variables and co-efficients that make up the results cannot be tampered with.
 
 ## What's next
 
-Perhaps, in the future, we will have successfully managed to break down any case into variables (using the expertise of psychologists) that can be processed and lead to a result, regardless of the individual case. Also, the system could draw data from penintentiary systems and assess its own previous judgments based on their effectiveness on the convicted person. In any case, we should always tread carefully, not get carried away by the effectiveness of the system and always consult scientists and experts before putting our trust on this kind of technology.
+The project requires the collaboration of a country in digitizing the justice administration system and creating a data base of
+resolved cases. The assistance of legal scientists is crucial in determining the parameters which the cases will be broken down to
+and the neccessary weight that each one of them has to be attributed with.
+
+Perhaps, in the future, we will have successfully managed to break down any case into processable variables (using the expertise
+of psychologists) that lead to a result, regardless of the individual case. Also, the software could draw data from penintentiary
+systems and assess its own previous judgments based on their effectiveness on the convicted person. Moreover, the assessment of a
+case could include the overall performance of the attorney that handled it and present more accurate data depending on one's
+performance (for example, was a case lost because the attorney handled it poorly? or was it won because the attorney handled it
+exceptionally well?). This would require for legal workers to be included in the data base as well.
+
+In any case, we should always tread carefully, not get carried away by the effectiveness of the system and always consult
+scientists and experts before putting our trust on this kind of technology.
