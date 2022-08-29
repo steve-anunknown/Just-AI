@@ -11,7 +11,7 @@ share a lot of similarities.
 ## Background
 
 The inspiration for the idea was the fact that, almost everywhere, justice administration is too slow and judges get overwhelmed
-with cases that share many similarities. Hopefully,it solves a variety of problems:
+with cases that share many similarities. Hopefully, it solves a variety of problems:
 * It speeds up the administration of justice.
 * It assists judges in being more objective by providing them with a strict data-oriented sentence that they can adapt to individual cases.
 * It reduces litigation costs.
@@ -46,7 +46,7 @@ It goes without saying that justice is a complicated issue and not something tha
 that contain a lot of human factors and data unable to just be broken down to variables require special attention. In addition,
 the manner in which "weight" is attributed to the different characteristics that are, ultimately, been used has to be constantly
 reviewed in order to ensure that the system is, indeed, fair and up-to-date. Furthermore, issues of privacy are being raised, not
-only regarding the participants but potentially the legal stuff as well. Finally, it is of utmost importance that the system
+only regarding the participants but potentially the legal personel as well. Finally, it is of utmost importance that the system
 is secure and that the different variables and co-efficients that make up the results cannot be tampered with.
 
 ## What's next
